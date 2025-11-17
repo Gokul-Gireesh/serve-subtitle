@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/Gokul-Gireesh/serve-subtitle.git"
   },
-  "keywords": ["subtitle",],
+  "keywords": ["subtitle"],
   "author": "Gokul Gireesh",
   "license": "ISC",
   "bugs": {

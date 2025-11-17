@@ -1,0 +1,24 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gokul-Gireesh/express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gokul-Gireesh/express/issues"
+  },
+  "homepage": "https://github.com/Gokul-Gireesh/express#readme",
+  "dependencies": {
+    "@gokul-gireesh/xjs": "^1.0.0",
+    "express": "^5.1.0"
+  }
+}

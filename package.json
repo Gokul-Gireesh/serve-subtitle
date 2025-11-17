@@ -20,6 +20,6 @@
   "homepage": "https://github.com/Gokul-Gireesh/serve-subtitle#readme",
   "dependencies": {
     "express": "^4.19.0",
-    "multer": "^1.4.5-lts.1"
+    "multer": "^2.0.0"
   }
 }
